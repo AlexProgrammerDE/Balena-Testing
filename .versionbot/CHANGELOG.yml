@@ -1,0 +1,76 @@
+- commits:
+    - subject: Update version-ci.yml
+      hash: be8c36fe20b3992b464a7d3eaf0550fec59a624e
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Alex
+    - subject: Update repo.yml
+      hash: 87bb3fb4916850aa5d173bab2b5d662523ab51c0
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Delete test
+      hash: 97e7433670dfa89040eb77e8a35767514b829183
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Update test
+      hash: bbfb7530ff7cd191d6df3e75f4c03d0515af7756
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Create test
+      hash: a6454c4c58696ee5d36cc22bb9e76fa9818390ca
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.1.0
+  date: 2020-01-14T19:40:59.005Z
+- commits:
+    - subject: Update version-ci.yml
+      hash: be8c36fe20b3992b464a7d3eaf0550fec59a624e
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Alex
+    - subject: Update repo.yml
+      hash: 87bb3fb4916850aa5d173bab2b5d662523ab51c0
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Delete test
+      hash: 97e7433670dfa89040eb77e8a35767514b829183
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Update test
+      hash: bbfb7530ff7cd191d6df3e75f4c03d0515af7756
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Create test
+      hash: a6454c4c58696ee5d36cc22bb9e76fa9818390ca
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.1.0
+  date: 2020-01-14T19:39:47.993Z

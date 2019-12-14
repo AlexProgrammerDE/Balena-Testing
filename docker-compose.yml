@@ -1,0 +1,9 @@
+version: '2'
+services:
+  ssh:
+    network_mode: host
+    restart: always
+    build: ./ssh
+    privileged: true
+    ports:
+      - "22:22"
