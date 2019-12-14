@@ -1,0 +1,5 @@
+type: generic
+upstream:
+  - repo: balena-testing
+    url: https://github.com/AlexProgrammerDE/balena-testing
+release: github 
