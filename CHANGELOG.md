@@ -7,6 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 # v0.0.2
 ## (2020-01-14)
 
+* Create test.txt [Alex]
 * Update version-ci.yml [Alex]
 * Fix CHANGELOG.yml [Alex]
 * Initial commit [Alex]

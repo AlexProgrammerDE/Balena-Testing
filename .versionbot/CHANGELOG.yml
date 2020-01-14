@@ -1,4 +1,35 @@
 - commits:
+    - subject: Create test.txt
+      hash: 3fd4270885ea8e2fa2c2d1831d133dff8054e0db
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Update version-ci.yml
+      hash: 33ce60774d86c30f59d0db89288ce4dab5aecb2a
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Fix CHANGELOG.yml
+      hash: ec5da4e718f29cff22c8912dea42cd2971d3beff
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Initial commit
+      hash: 1c0853b2e21db5c804d6f2b06070903e32fbb3a4
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.0.2
+  date: 2020-01-14T19:59:43.953Z
+- commits:
     - subject: Update version-ci.yml
       hash: 33ce60774d86c30f59d0db89288ce4dab5aecb2a
       body: ''
