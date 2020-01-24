@@ -1,0 +1,10 @@
+- commits:
+    - subject: Initial commit
+      hash: 9a7881cfffcd4d2dad40fd6a6e19e37cb3af86d4
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.0.2
+  date: 2020-01-24T16:52:14.085Z
