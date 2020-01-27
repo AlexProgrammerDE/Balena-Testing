@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update version-ci.yml
+      hash: 6e2b44c56bdb54c16351e05c26e6d892408b4598
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Alex
+  version: 1.1.0
+  date: 2020-01-27T13:09:58.564Z
+- commits:
     - subject: Update test.txt
       hash: e80aae54735018fa2c18263f7a9544ba371a33df
       body: ''
