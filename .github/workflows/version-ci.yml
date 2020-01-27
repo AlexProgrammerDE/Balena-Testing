@@ -17,11 +17,7 @@ jobs:
         sudo npm install -g versionist
         sudo npm install -g balena-versionist
     - name: Run balena-versionist
-      run: |
-        OUTPUT="$(balena-versionist)"
-        cat << EOF > VERSION
-        $OUTPUT
-        EOF
+      run: balena-versionist
     - name: Commit files
       run: |
         git add .
@@ -30,6 +26,10 @@ jobs:
         sudo git commit -m "Update Changelog" -a
       env:
         github_email: ${{ secrets.GITHUB_EMAIL }}
+    - name: Create tag
+      run: |
+        VERSION=$(<VERSION)
+        git tag -a v$VERSION -m "Version $VERSION"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
