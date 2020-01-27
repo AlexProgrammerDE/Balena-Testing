@@ -1,4 +1,28 @@
 - commits:
+    - subject: Update version-ci.yml
+      hash: 12d20127982c813c6866f62d27d2f84ca470f2fc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+    - subject: Update version-ci.yml
+      hash: eb5fe2b59887ab1e3ea5172c40d9f5645b9b4ace
+      body: ''
+      footer:
+        Change-Type: patch
+        change-type: patch
+      author: Alex
+    - subject: Update test.txt
+      hash: 89978468e7c639fd28db6d975a27c3abde7a8249
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.0.4
+  date: 2020-01-27T12:52:46.376Z
+- commits:
     - subject: Update test.txt
       hash: 9345f17bc9a03661d714b386601db0bdc91b70e3
       body: ''
