@@ -19,7 +19,9 @@ jobs:
     - name: Run balena-versionist
       run: |
         OUTPUT="$(balena-versionist)"
-        cat << EOF > VERSION ; $OUTPUT ; EOF
+        cat << EOF > VERSION
+        $OUTPUT
+        EOF
     - name: Commit files
       run: |
         git add .
