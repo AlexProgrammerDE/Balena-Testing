@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update test.txt
+      hash: 9345f17bc9a03661d714b386601db0bdc91b70e3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alex
+  version: 0.0.3
+  date: 2020-01-27T12:17:09.130Z
+- commits:
     - subject: Initial commit
       hash: 9a7881cfffcd4d2dad40fd6a6e19e37cb3af86d4
       body: ''
