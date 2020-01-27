@@ -1,5 +1,15 @@
 - commits:
     - subject: Update test.txt
+      hash: e80aae54735018fa2c18263f7a9544ba371a33df
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+      author: Alex
+  version: 1.0.0
+  date: 2020-01-27T13:05:36.164Z
+- commits:
+    - subject: Update test.txt
       hash: 920a3c3567f6b6c3a802461daca0176a8c7b78be
       body: ''
       footer:
