@@ -17,8 +17,6 @@ jobs:
         sudo apt-get update 
         sudo apt-get install -y curl git python g++ make
         sudo npm install balena-cli -g --production --unsafe-perm
-    - name: Run balena cli raspberry pi (1, Zero, Zero W)
-      run: balena build --deviceType raspberry-pi --arch armv6hf --emulated .
     - name: Run balena cli raspberry pi 2
       run: balena build --deviceType raspberry-pi2 --arch armv7hf --emulated .
     - name: Run balena cli raspberry pi 3
