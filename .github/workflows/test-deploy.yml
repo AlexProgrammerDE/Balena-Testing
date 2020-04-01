@@ -19,3 +19,5 @@ jobs:
         sudo npm install balena-cli -g --production --unsafe-perm
     - name: Run balena cli
       run: balena build --deviceType raspberrypi3 --arch armv7hf --emulated .
+    - name: Run balena cli raspberry pi 4
+      run: balena build --deviceType raspberrypi4 --arch aarch64 --emulated .
