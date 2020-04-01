@@ -1,0 +1,19 @@
+name: Version CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  version-ci:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install balena-cli
+      run: |
+        sudo npm install -g balena-cli
+    - name: Run balena cli
+      run: balena build --deviceType raspberrypi3 --arch armv7hf --emulated .
