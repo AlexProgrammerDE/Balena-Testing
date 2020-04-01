@@ -1,4 +1,4 @@
-
+FROM balenalib/%%BALENA_MACHINE_NAME%%-debian:buster
 
 COPY start.sh /usr/src/
 
